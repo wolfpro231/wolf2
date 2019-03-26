@@ -1,0 +1,6 @@
+owner=486141054677155860
+prefix=N
+game=Nhelp _ Nplay
+stayinchannel=true
+songinstatus=false
+token=NTU5OTA2MzU1NTE1ODgzNTIw.D3sNRw.OM-8CX1Th2eYrn9eeIz4YiF7U2M
